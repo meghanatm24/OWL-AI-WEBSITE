@@ -20,3 +20,11 @@ Backend powered by Express server (port 3001)
 Clear separation of frontend and backend
 
 Easy to expand with AI models like GPT
+🚀 How It Works
+Frontend captures user input and sends it to backend via fetch().
+
+Backend receives the message and responds with a random owl-themed reply.
+
+Response is displayed in the browser instantly.
+
+
